@@ -39,6 +39,7 @@ MonoBehaviour:
     - ACTk.Examples.Runtime
     - ACTk.Runtime
     - AllIn1SpriteShaderAssembly
+    - Assembly-CSharp
     - Assembly-CSharp-firstpass
     - Febucci.Attributes.Runtime
     - Febucci.TextAnimator.Demo.Runtime
